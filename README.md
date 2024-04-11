@@ -10,7 +10,7 @@ Hi there! I'm Yasmine, a software engineering student with a passion for buildin
 
 **Currently leveling up my skills in:**
 
-* New programming languages (Python, R, and more to come!  📚)
+* New programming languages (R, and more to come!  📚)
 * Web development: making the web a more awesome place, one line of code at a time  🌐
 * Data analysis: there's a story hiding in every dataset, and I want to find it!  📊
 
